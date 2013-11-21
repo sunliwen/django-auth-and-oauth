@@ -1,0 +1,5 @@
+django>=1.4.3
+django-allauth>=0.13.0
+django-oauth-toolkit
+django-cors-headers
+django-bootstrap-form
